@@ -1,4 +1,5 @@
 {
+  "packageManager": "pnpm@8.15.9",
   "name": "astrofy",
   "description": "Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.",
   "type": "module",
